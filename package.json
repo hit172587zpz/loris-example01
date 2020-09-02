@@ -1,0 +1,23 @@
+{
+  "name": "git_example01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hit172587zpz/loris-example01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hit172587zpz/loris-example01/issues"
+  },
+  "homepage": "https://github.com/hit172587zpz/loris-example01#readme",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
